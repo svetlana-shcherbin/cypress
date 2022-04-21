@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "cypress:open": "cypress open"
+    },
+    "baseUrl": "https://www.saucedemo.com/",
+    "chromeWebSecurity": false
+  }
